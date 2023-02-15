@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Opeyemi
 
-###A Frontend Engineer
+### A Frontend Engineer
 
 Here are some ideas to get you started:
 
