@@ -5,7 +5,7 @@
 I'm currently developing interactive web applications using the latest web technologies. In my spare time, I enjoy exploring the world of JavaScript and Backend-as-a-Service to create cool applications
 
 - 🌍  I'm based in Lagos, Nigeria
-- 🌱 I’m mastering Next JS
+- 🌱 I’m mastering Node JS
 - 👯 I’m open to collaborate on interesting projects, say hi on [twitter](https://twitter.com/opeyemiMotayo) and [linkedin](https://www.linkedin.com/in/opeyemi-omotayo-a67255224/)
 - 📫 You can contact me at opeyemi.motayo1@gmail.com.
 - ⚡ I'm an arsenal fan...#COYG
