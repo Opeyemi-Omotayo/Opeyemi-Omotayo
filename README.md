@@ -2,7 +2,7 @@
 
 ### A Frontend Engineer
 
-I'm currently developing interactive web applications using the latest web technologies. In my spare time, I enjoy exploring the world of JavaScript and Backend-as-a-Service to create cool applications
+I'm currently developing interactive web applications using the latest web technologies. In my spare time, I find joy in delving into the world of JavaScript and exploring the realms of both Backend-as-a-Service (BaaS) and Node.js to build captivating applications.
 
 - 🌍  I'm based in Lagos, Nigeria
 - 🌱 I’m mastering Node JS
