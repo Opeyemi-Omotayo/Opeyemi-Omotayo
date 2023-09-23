@@ -2,13 +2,14 @@
 
 ### A Frontend Engineer
 
-I'm currently developing interactive web applications using the latest web technologies. In my spare time, I find joy in delving into the world of JavaScript and exploring the realms of both Backend-as-a-Service (BaaS) and Node.js to build captivating applications.
+I'm deeply immersed in the development of engaging web applications using the latest and most innovative web technologies. In my spare time, I find joy in delving into the world of JavaScript and exploring both Backend-as-a-Service and Node.js to craft captivating applications.
+I am currently building with Next JS, and React JS with Typescript. I am adept at styling with Tailwind CSS but also familiar with vanilla CSS and SCSS. 
 
 - 🌍  I'm based in Lagos, Nigeria
 - 🌱 I’m mastering Node JS
 - 👯 I’m open to collaborate on interesting projects, say hi on [twitter](https://twitter.com/opeyemiMotayo) and [linkedin](https://www.linkedin.com/in/opeyemi-omotayo-a67255224/)
 - 📫 You can contact me at opeyemi.motayo1@gmail.com.
-- ⚡ I'm an arsenal fan...#COYG
+- ⚡ Proud Arsenal fan...#COYG
 
 ### Skills
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" style="max-width: 100%;">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" style="max-width: 100%;">](https://developer.mozilla.org/en-US/docs/Glossary/HTML5) [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" style="max-width: 100%;">](https://reactjs.org/) [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" style="max-width: 100%;">](https://nextjs.org/docs) [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" style="max-width: 100%;">](https://www.w3.org/TR/CSS/#css) [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" style="max-width: 100%;">](https://tailwindcss.com/) [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" style="max-width: 100%;">](https://redux.js.org/) [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" style="max-width: 100%;">](https://nodejs.org/en/) [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" style="max-width: 100%;">](https://firebase.google.com/)
