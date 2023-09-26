@@ -2,7 +2,7 @@
 
 ### A Frontend Engineer
 
-I'm deeply immersed in the development of engaging web applications using the latest and most innovative web technologies. I am currently building with Next JS, and React JS with Typescript. I am adept at styling with Tailwind CSS but also familiar with vanilla CSS and SCSS.  
+I'm deeply immersed in the development of engaging web applications using the latest and most innovative web technologies. I am currently building with Next JS, and React JS with Typescript. I am adept at styling with Tailwind CSS but also familiar with vanilla CSS, styled component and SASS.  
 In my spare time, I find joy in delving into the world of JavaScript and exploring both Backend-as-a-Service and Node.js to craft captivating applications.
 
 - 🌍  I'm based in Lagos, Nigeria
