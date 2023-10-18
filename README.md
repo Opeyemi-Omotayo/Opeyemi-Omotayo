@@ -2,8 +2,18 @@
 
 ### A Frontend Engineer
 
-I'm deeply immersed in the development of engaging web applications using the latest and most innovative web technologies. I am currently building with Next JS, and React JS with Typescript. I am adept at styling with Tailwind CSS but also familiar with vanilla CSS, styled component and SASS.  
-In my spare time, I find joy in delving into the world of JavaScript and exploring both Backend-as-a-Service and Node.js to craft captivating applications.
+I build systems. I love football. I solve problems. 
+
+I enjoy deep-diving into processes and tackling the thorny questions of continuous improvement. I live for challenges that wake me up at 2 am yelling "Eureka" and send me dashing to my laptop to create solutions.
+
+People. Over. Process
+
+I enjoy people. My dream environment is a brilliant team with driven professionals that genuinely enjoy working with each other and value each other's expertise and viewpoints. I value constant constructive feedback. I subscribe to 360-degree leadership, the concept that leadership is irrespective of your position, the best leaders lead across, below, and upwards wherever they are placed in an organization.
+
+As a dedicated front-end developer, I come equipped with a wealth of experience in HTML, CSS, JavaScript, Next.js and React. My forte lies in crafting designs that are meticulously aligned, functioning impeccably across a spectrum of browsers and devices, ensuring an effortlessly smooth user interaction.
+
+I am very much in a learning phase in my career, therefore I am interested in opportunities that challenge me more and more and enable me to broaden my horizons.
+Reach out! I'd love to hear from you :)
 
 - 🌍  I'm based in Lagos, Nigeria
 - 🌱 I’m mastering Node JS
