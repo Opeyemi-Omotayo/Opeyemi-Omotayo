@@ -2,7 +2,7 @@
 
 ### A Frontend Engineer
 
-I build systems. I love football. I solve problems. 
+I love football. I solve problems. 
 
 I enjoy deep-diving into processes and tackling the thorny questions of continuous improvement. I live for challenges that wake me up at 2 am yelling "Eureka" and send me dashing to my laptop to create solutions.
 
@@ -16,7 +16,7 @@ I am very much in a learning phase in my career, therefore I am interested in op
 Reach out! I'd love to hear from you :)
 
 - 🌍  I'm based in Lagos, Nigeria
-- 🌱 I’m mastering Node JS
+- 🌱 I’m mastering React Native
 - 👯 I’m open to collaborate on interesting projects, say hi on [twitter](https://twitter.com/opeyemiMotayo) and [linkedin](https://www.linkedin.com/in/opeyemi-omotayo-a67255224/)
 - 📫 You can contact me at opeyemi.motayo1@gmail.com.
 - ⚡ Proud Arsenal fan...#COYG
