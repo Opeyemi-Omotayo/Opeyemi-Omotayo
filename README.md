@@ -12,7 +12,8 @@ I enjoy people. My dream environment is a brilliant team with driven professiona
 
 As a dedicated front-end developer, I come equipped with a wealth of experience in HTML, CSS, JavaScript, Next.js and React. My forte lies in crafting designs that are meticulously aligned, functioning impeccably across a spectrum of browsers and devices, ensuring an effortlessly smooth user interaction.
 
-I am very much in a learning phase in my career, therefore I am interested in opportunities that challenge me more and more and enable me to broaden my horizons.
+I am interested in opportunities that challenge me more and more and enable me to broaden my horizons.
+
 Reach out! I'd love to hear from you :)
 
 - 🌍  I'm based in Lagos, Nigeria
