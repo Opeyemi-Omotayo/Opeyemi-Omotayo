@@ -16,7 +16,7 @@ I am interested in opportunities that challenge me more and more and enable me t
 
 Reach out! I'd love to hear from you :)
 
-- 🌍  I'm based in Lagos, Nigeria
+- 🌍  I'm based in Berlin, Germany
 - 🌱 I’m mastering React Native
 - 👯 I’m open to collaborate on interesting projects, say hi on [twitter](https://twitter.com/opeyemiMotayo) and [linkedin](https://www.linkedin.com/in/opeyemi-omotayo-a67255224/)
 - 📫 You can contact me at opeyemi.motayo1@gmail.com.
